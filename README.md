@@ -4,6 +4,11 @@
 
 a really bored person 
 
+
+
+<img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" />
+
+
 ### about me
 > it's all part of the process 
 
