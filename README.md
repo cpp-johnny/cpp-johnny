@@ -6,7 +6,9 @@
 a really bored person 
 
 
-### About Me :P
+### About Me :O
+
+
 > it's all part of the process 
 
 - 👋 Hi, I’m Johnny
