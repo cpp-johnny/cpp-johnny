@@ -16,6 +16,9 @@ a really bored person
 - 👀 I’m interested in tech 👀
 - 📫 I’m currently learning C++ 🥲
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### platform & tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,7 +27,12 @@ a really bored person
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -34,5 +42,4 @@ a really bored person
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
 
