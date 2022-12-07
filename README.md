@@ -1,7 +1,7 @@
 ## Hello 👋👋
 
 
-<img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" /> <img src="https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg" width="213.3" height="148"/>
+<img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" /> <img src="https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg" width="142.2" height="98.67"/>
 
 a really bored person 
 
