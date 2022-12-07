@@ -1,11 +1,12 @@
 ## Hello 👋👋
 
+
+<img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" />
+
+
 <img src="https://github.com/cpp-johnny/image-bank/blob/main/cat.jpg" width="213.3" height="148"/>
 
 a really bored person 
-
-
-<img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" />
 
 
 ### about me
