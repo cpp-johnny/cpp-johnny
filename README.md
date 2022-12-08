@@ -46,8 +46,9 @@ a really bored person
 <!--- github user journey ad, just ctrl shift i to see the elements and --->
 <!--- copy paste, change the names accordingly, and no. A81D33 is colour --->
 
-<a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian%20Linux-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a> 
+<a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a> 
 <a href="https://www.apple.com/" rel="nofollow"><img src="https://img.shields.io/badge/OS-iOS-292e33?style=flat-square&logo=apple&logoColor=ffffff" style="max-width: 100%;"></a> 
+
 
 
 
