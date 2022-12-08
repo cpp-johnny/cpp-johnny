@@ -38,8 +38,8 @@ a really bored person
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
 
 
 
