@@ -39,7 +39,7 @@ a really bored person
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
+![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
 
 
 
