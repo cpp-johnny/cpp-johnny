@@ -38,14 +38,17 @@ a really bored person
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-![Debian package](https://img.shields.io/debian/v/dpkg/bullseye?color=%23A81D33&label=Debian&logo=debian&style=flat-square)
 
 ![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
 
 
+<!--- href is for redirect link, then img src="whatever" is stolen from -->
+<!--- github user journey ad, just ctrl shift i to see the elements and --->
+<!--- copy paste, change the names accordingly, and no. A81D33 is colour --->
 
+<a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian%20Linux-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a> 
+<a href="https://www.apple.com/" rel="nofollow"><img src="https://img.shields.io/badge/OS-iOS-292e33?style=flat-square&logo=apple&logoColor=ffffff" style="max-width: 100%;"></a> 
 
-<a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian%20Linux-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a>
 
 
 
