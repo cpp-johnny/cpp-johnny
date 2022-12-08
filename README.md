@@ -5,13 +5,11 @@
 
 
 
-a really bored person 
-
-
 ### About Me :O
 
 
-> it's all part of the process 
+> a really bored person 
+
 
 - 👋 Hi, I’m Johnny
 - 👀 I’m interested in CS  
