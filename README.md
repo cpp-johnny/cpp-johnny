@@ -41,6 +41,7 @@ a really bored person
 
 <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a> 
 <a href="https://www.apple.com/" rel="nofollow"><img src="https://img.shields.io/badge/OS-iOS-292e33?style=flat-square&logo=apple&logoColor=ffffff" style="max-width: 100%;"></a> 
+<a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="max-width: 100%;"></a>
 
 
 
@@ -48,8 +49,7 @@ a really bored person
 
 
 
-
-
+<!--- ignore below, still running on op's server, did not create own vercel server -->
 <!--- github token expires at The token will expire on Sat, Jan 7 2023, follow vid for more steps --->
 <!--- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr --->
 
