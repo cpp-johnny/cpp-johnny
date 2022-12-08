@@ -14,21 +14,14 @@ a really bored person
 > it's all part of the process 
 
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in tech 👀
+- 👀 I’m interested in CS  
 - 📫 I’m currently learning C++ 🥲
+- 🎯 2022 Goals: explore and try out more cool tech
+- 😻 2023 Goals: learn a new langauge (maybe ruby on rails) 😳 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Platform & Tools
-
-<a href="https://www.python.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://cplusplus.com/" rel="nofollow"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.javascript.com/" rel="nofollow"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="max-width: 100%;"></a>
-
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 
 <!--- href is for redirect link, then img src="whatever" is stolen from --->
@@ -37,14 +30,39 @@ a really bored person
 
 <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/OS-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff" style="max-width: 100%;"></a> 
 <a href="https://www.apple.com/" rel="nofollow"><img src="https://img.shields.io/badge/OS-iOS-292e33?style=flat-square&logo=apple&logoColor=ffffff" style="max-width: 100%;"></a> 
+<a href="https://www.python.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://cplusplus.com/" rel="nofollow"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.javascript.com/" rel="nofollow"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="max-width: 100%;"></a>
+
+
 <a href="https://replit.com/" rel="nofollow"><img src="https://img.shields.io/badge/IDE-repl.it-F26207?style=flat-square&logo=replit&logoColor=ffffff" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="max-width: 100%;"></a>
+<a href="htpps://https://codepen.io/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
 
 
 
+<a href="https://dev.to" rel="nofollow"><img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=Dev.to&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://https://www.datacamp.com/" rel="nofollow"><img src="https://img.shields.io/badge/-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" style="max-width: 100%;"></a>
 
+
+### Stats 😲
+
+<details><summary>⚡ GitHub Stats (click me!)</summary>
+<p>
 
 ![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
+
+</p>
+</details>
+
+<details><summary>💪 Most Used Language (click me!) </summary>
+<p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+</details>
+
 
 
 
