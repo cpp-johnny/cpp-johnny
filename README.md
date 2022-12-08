@@ -35,7 +35,7 @@ a really bored person
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 
-<!--- href is for redirect link, then img src="whatever" is stolen from -->
+<!--- href is for redirect link, then img src="whatever" is stolen from --->
 <!--- github user journey ad, just ctrl shift i to see the elements and --->
 <!--- copy paste, change the names accordingly, and no. A81D33 is colour --->
 
@@ -50,7 +50,8 @@ a really bored person
 
 
 
-
+<!--- github token expires at The token will expire on Sat, Jan 7 2023, follow vid for more steps --->
+<!--- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr --->
 
 
 
