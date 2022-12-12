@@ -15,7 +15,7 @@
 - 👀 I’m interested in CS  
 - 📫 I’m currently learning C++ 🥲
 - 🎯 2022 Goals: explore and try out more cool tech
-- 😻 2023 Goals: learn a new langauge (maybe ruby on rails) 😳 
+- 😻 2023 Goals: learn a new langauge (maybe ruby/perl) 
 
 
 
