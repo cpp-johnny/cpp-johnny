@@ -36,8 +36,8 @@
 <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="max-width: 100%;"></a> 
 
 
-
-
+<a href="https://www.gimp.org/" rel="nofollow"><img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white
+" style="max-width: 100%;"></a>
 <a href="https://replit.com/" rel="nofollow"><img src="https://img.shields.io/badge/IDE-repl.it-F26207?style=flat-square&logo=replit&logoColor=ffffff" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" style="max-width: 100%;"></a>
 <a href="https://codepen.io/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
