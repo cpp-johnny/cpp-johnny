@@ -59,8 +59,8 @@
 <details><summary>💪 Most Used Language (click me!) </summary>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 </details>
 
