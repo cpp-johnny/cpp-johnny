@@ -72,6 +72,15 @@
 </details>
 
 
+<details><summary>🥶 Joke of the day (click me!) </summary>
+<p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</p>
+</details>
+
+
 
 
 <!--- ignore below, still running on op's server, did not create own vercel server -->
