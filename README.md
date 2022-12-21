@@ -18,6 +18,14 @@
 - 😻 2023 Goals: learn a new langauge (maybe ruby/perl) 
 
 
+<details><summary>🥶 Joke of the day (click me!) </summary>
+<p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</p>
+</details>
+
 
 ### Platform & Tools
 
@@ -67,15 +75,6 @@
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
-</details>
-
-
-<details><summary>🥶 Joke of the day (click me!) </summary>
-<p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
   
 </p>
 </details>
