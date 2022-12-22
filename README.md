@@ -1,11 +1,11 @@
-## Hello 👋👋
+# Hello 👋👋
 
 
 <img src="https://count.getloli.com/get/@:cpp-johnny" alt=":cpp=johnny" /> <img src="https://camo.githubusercontent.com/31570a8b0ead8a0d86620dd4431760dd7a4021113e6a6359b7a1b23427532bd0/68747470733a2f2f776561746865722d69636f6e2e6a6f75726e657961642e7265706c2e636f2f407368616e676861693f763d31" align="right" data-canonical-src="https://weather-icon.journeyad.repl.co/@singapore?v=1" style="max-width: 100%;">
 
 
 
-### About Me :O
+## About Me :O
 
 
 > a really bored person 
@@ -18,16 +18,9 @@
 - 😻 2023 Goals: learn a new langauge (maybe [TypeScript](https://www.w3schools.com/typescript/index.php)/[Go](https://my-learning.w3schools.com/tutorial/go)) 
 
 
-<details><summary>🥶 Joke of the day (click me!) </summary>
-<p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
-</p>
-</details>
 
 
-### Platform & Tools
+## Platform & Tools
 
 
 <!--- href is for redirect link, then img src="whatever" is stolen from --->
@@ -61,7 +54,7 @@
 
 
 
-### Stats 😲
+## Stats 😲
 
 <details><summary>⚡ GitHub Stats (click me!)</summary>
 <p>
@@ -79,6 +72,17 @@
 </p>
 </details>
 
+
+
+
+## 🥶 Joke of the day
+<details><summary> (click me!) </summary>
+<p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</p>
+</details>
 
 
 
