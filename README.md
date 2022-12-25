@@ -54,25 +54,41 @@
 
 
 
-## Stats 😲
+## Tech Stack :rocket:
 
 <details><summary>⚡ GitHub Stats (click me!)</summary>
 <p>
 
-![johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp-johnny&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api?username=cpp-johnny&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 
 </p>
 </details>
 
-<details><summary>💪 Most Used Language (click me!) </summary>
+
+<details><summary> 🔥 Streak (click me!) </summary>
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cpp-johnny&theme=dark&hide_border=false)
   
 </p>
 </details>
 
 
+<details><summary>💪 Most Used Language (click me!) </summary>
+<p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</p>
+</details>
+
+<details><summary> 🏆 GitHub Trophies (click me!) </summary>
+<p>
+
+![](https://github-profile-trophy.vercel.app/?username=cpp-johnny&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+</p>
+</details>
 
 
 ## Joke of the day :trollface:	
