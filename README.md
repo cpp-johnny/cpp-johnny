@@ -75,7 +75,7 @@
 
 
 
-## 🥶 Joke of the day
+## Joke of the day :trollface:	
 <details><summary> (click me!) </summary>
 <p>
 
