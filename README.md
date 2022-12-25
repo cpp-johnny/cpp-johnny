@@ -12,8 +12,8 @@
 
 
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in CS  
-- 📫 I’m currently [learning C++ 🥲](https://github.com/cpp-johnny/Code4SG-cpp-submission)
+- 👀 I’m interested in CS 
+- 🌱 I’m currently [learning C++ 🥲](https://github.com/cpp-johnny/Code4SG-cpp-submission)
 - 🎯 2022 Goals: explore and try out more cool tech
 - 😻 2023 Goals: learn a new langauge (maybe [TypeScript](https://www.w3schools.com/typescript/index.php)/[Go](https://my-learning.w3schools.com/tutorial/go)) 
 
@@ -59,7 +59,7 @@
 <details><summary>⚡ GitHub Stats (click me!)</summary>
 <p>
 
-![](https://github-readme-stats.vercel.app/api?username=cpp-johnny&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api?username=cpp-johnny&theme=react&hide_border=true&include_all_commits=true&count_private=false) 
 
 </p>
 </details>
@@ -68,7 +68,7 @@
 <details><summary> 🔥 Streak (click me!) </summary>
 <p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cpp-johnny&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cpp-johnny&theme=react&hide_border=true)
   
 </p>
 </details>
@@ -77,7 +77,7 @@
 <details><summary>💪 Most Used Language (click me!) </summary>
 <p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp-johnny&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
 </p>
 </details>
