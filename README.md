@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m Johnny
 - 👀 I’m interested in CS  
-- 📫 I’m currently learning C++ 🥲
+- 📫 I’m currently [learning C++ 🥲](https://github.com/cpp-johnny/Code4SG-cpp-submission)
 - 🎯 2022 Goals: explore and try out more cool tech
 - 😻 2023 Goals: learn a new langauge (maybe [TypeScript](https://www.w3schools.com/typescript/index.php)/[Go](https://my-learning.w3schools.com/tutorial/go)) 
 
