@@ -90,10 +90,26 @@
 </p>
 </details>
 
+<!--- Daily Metrics: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md -->
+<!--- Token created on 26 Dec 2022, expires on 25 Jan 2023. To view token, go to repo setting secrets --->
+
+<details><summary> :sunrise_over_mountains:	Daily Metrics (click me!) </summary>
+<p>
+
+![Metrics](/github-metrics.svg)
+
+</p>
+</details>
 
 
+## Joke of the day :trollface:	
+<details><summary> (click me!) </summary>
+<p>
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
+  
+</p>
+</details>
 
 
 
@@ -114,13 +130,6 @@
 
 
 
-<details><summary> Daily Metrics (click me!) </summary>
-<p>
-
-![Metrics](/github-metrics.svg)
-
-</p>
-</details>
 
 
 
@@ -134,22 +143,10 @@
 
 
 
-## Joke of the day :trollface:	
-<details><summary> (click me!) </summary>
-<p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
-  
-</p>
-</details>
 
 
 
 <!--- ignore below, still running on op's server, did not create own vercel server -->
 <!--- github token expires at The token will expire on Sat, Jan 7 2023, follow vid for more steps --->
 <!--- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr --->
-
-
-
-
-
