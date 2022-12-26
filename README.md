@@ -54,7 +54,7 @@
 
 
 
-## Tech Stack :rocket:
+## Tech Stack :rocket: 
 
 <details><summary>⚡ GitHub Stats (click me!)</summary>
 <p>
@@ -98,8 +98,13 @@
 
 ![Metrics](/github-metrics.svg)
 
+
+![](https://img.shields.io/github/actions/workflow/status/cpp-johnny/cpp-johnny/daily-metrics-new.yaml)
+
+
 </p>
 </details>
+
 
 
 ## Joke of the day :trollface:	
@@ -110,7 +115,6 @@
   
 </p>
 </details>
-
 
 
 
