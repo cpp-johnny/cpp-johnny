@@ -114,6 +114,14 @@
 
 
 
+<details><summary> Daily Metrics (click me!) </summary>
+<p>
+
+![Metrics](https://raw.githubusercontent.com/cpp-johnny/cpp-johnny/github-metrics/github-metrics.svg)
+  
+</p>
+</details>
+
 
 
 
