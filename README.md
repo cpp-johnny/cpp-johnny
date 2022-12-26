@@ -93,7 +93,7 @@
 <!--- Daily Metrics: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md -->
 <!--- Token created on 26 Dec 2022, expires on 25 Jan 2023. To view token, go to repo setting secrets --->
 
-<details><summary> :sunrise_over_mountains:	Daily Metrics (click me!) </summary>
+<details><summary> :sunrise_over_mountains: Metrics (click me!) </summary>
 <p>
 
 ![Metrics](/github-metrics.svg)
