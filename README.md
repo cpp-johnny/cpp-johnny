@@ -117,8 +117,8 @@
 <details><summary> Daily Metrics (click me!) </summary>
 <p>
 
-![Metrics](https://raw.githubusercontent.com/cpp-johnny/cpp-johnny/github-metrics/github-metrics.svg)
-  
+![Metrics](/github-metrics.svg)
+
 </p>
 </details>
 
