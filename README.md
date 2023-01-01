@@ -50,6 +50,7 @@
 <a href="https://www.gimp.org/" rel="nofollow"><img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.bilibili.com/" rel="nofollow"><img src="https://img.shields.io/badge/-B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://vercel.com/dashboard" rel="nofollow"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="max-width: 100%;"></a>
 
 
 
