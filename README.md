@@ -107,6 +107,11 @@
 </details>
 
 
+<details><summary> 📈 Graph (click me!) </summary>
+<a href="http://www.github.com/cpp-johnny"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cpp-johnny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</details>
+
+
 
 ## Joke of the day :trollface:	
 <details><summary> (click me!) </summary>
