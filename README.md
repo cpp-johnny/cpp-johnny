@@ -14,7 +14,7 @@
 - 👋 Hi, I’m Johnny
 - 👀 I’m interested in CS 
 - 🌱 I’m currently [learning C++ 🥲](https://github.com/cpp-johnny/Code4SG-cpp-submission)
-- 🎯 2023 Goals: learn a new langauge (maybe [ThreeJS](https://threejs.org/)/[Flutter](https://flutter.dev/learn)) 
+- 🎯 2023 Goals: learn a new langauge (maybe [ThreeJS](https://threejs.org/)/[Svelte](https://learn.svelte.dev/tutorial/welcome-to-svelte)) 
 
 
 
