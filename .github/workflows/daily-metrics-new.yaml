@@ -19,6 +19,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN_PERMANENT }}
           
           config_timezone: Asia/Singapore
