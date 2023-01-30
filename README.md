@@ -41,7 +41,7 @@
 
 
 <a href="https://replit.com/" rel="nofollow"><img src="https://img.shields.io/badge/-repl.it-F26207?style=flat-square&logo=replit&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.vim.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://codepen.io/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dev.to" rel="nofollow"><img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=Dev.to&logoColor=white" style="max-width: 100%;"></a>
