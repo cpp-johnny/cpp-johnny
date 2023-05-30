@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m boi
 - 👀 I’m kinda bored so im doing CS for fun
-- 🌱 I am currently trying out Svelte & C++
+- 🌱 I am currently trying out Svelte & Alpine
 - 🎯 2023 Goals: learn a new langauge (maybe [ThreeJS](https://threejs.org/)/[Svelte](https://learn.svelte.dev/tutorial/welcome-to-svelte)) 
 
 
