@@ -26,7 +26,7 @@
 <!--- github user journey ad, just ctrl shift i to see the elements and --->
 <!--- copy paste, change the names accordingly, and no. A81D33 is colour --->
 <!--- template: <a href="" rel="nofollow"><img src="" style="max-width: 100%;"></a> --->
-
+<!--- use simpleicons.org for the colour of the shit --->
 
 <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.google.com/chromebook/chrome-os/" rel="nofollow"><img src="https://img.shields.io/badge/-ChromeOS-4285F4?style=flat-square&logo=google%20chrome&logoColor=white" style="max-width: 100%;"></a>
@@ -37,6 +37,8 @@
 <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://gist.github.com/cpp-johnny" rel="nofollow"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.latex-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.r-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white%22%20style=%22max-width:%20100%"></a>
+
 
 
 
