@@ -28,8 +28,9 @@
 <!--- template: <a href="" rel="nofollow"><img src="" style="max-width: 100%;"></a> --->
 <!--- use simpleicons.org for the colour of the shit --->
 <a href="https://github.com/cpp-johnny/EndeavourOS-setup" rel="nofollow"><img src="https://img.shields.io/badge/-endeavourOS-purple?style=flat-square&logo=endeavouros&logoColor=white" style="max-width: 100%;"></a> 
-<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" style="max-width: 100%;"></a> 
+<a href="https://github.com/cpp-johnny/ubuntu-setup" rel="nofollow"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" style="max-width: 100%;"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-win11-0078D4?style=flat-square&logo=windows11&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://www.google.com/chromebook/chrome-os/" rel="nofollow"><img src="https://img.shields.io/badge/-ChromeOS-4285F4?style=flat-square&logo=google%20chrome&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://cplusplus.com/" rel="nofollow"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="max-width: 100%;"></a>
