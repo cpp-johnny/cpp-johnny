@@ -34,6 +34,14 @@
 <a href="https://www.google.com/chromebook/chrome-os/" rel="nofollow"><img src="https://img.shields.io/badge/-ChromeOS-4285F4?style=flat-square&logo=google%20chrome&logoColor=white" style="max-width: 100%;"></a>
 
 
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-NvChad-57A143?style=flat-square&logo=neovim&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.datacamp.com/" rel="nofollow"><img src="https://img.shields.io/badge/-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.gimp.org/" rel="nofollow"><img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://vercel.com/dashboard" rel="nofollow"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="max-width: 100%;"></a>
+
 <a href="https://www.python.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://cplusplus.com/" rel="nofollow"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://html.spec.whatwg.org/" rel="nofollow"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="max-width: 100%;"></a>
@@ -43,16 +51,6 @@
 <a href="" rel="nofollow"><img src="https://img.shields.io/badge/-zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.latex-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.r-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white%22%20style=%22max-width:%20100%"></a>
-
-
-<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-NvChad-57A143?style=flat-square&logo=neovim&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.datacamp.com/" rel="nofollow"><img src="https://img.shields.io/badge/-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.gimp.org/" rel="nofollow"><img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://vercel.com/dashboard" rel="nofollow"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="max-width: 100%;"></a>
-
 
 
 
