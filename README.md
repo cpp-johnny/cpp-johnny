@@ -40,13 +40,13 @@
 <a href="https://www.javascript.com/" rel="nofollow"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://gist.github.com/cpp-johnny" rel="nofollow"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=white" style="max-width: 100%;"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.latex-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.r-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white%22%20style=%22max-width:%20100%"></a>
 
 
-
-
-<a href="https://replit.com/" rel="nofollow"><img src="https://img.shields.io/badge/-repl.it-F26207?style=flat-square&logo=replit&logoColor=white" style="max-width: 100%;"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-NvChad-57A143?style=flat-square&logo=neovim&logoColor=white
+" style="max-width: 100%;"></a>
 <a href="https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://codepen.io/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
