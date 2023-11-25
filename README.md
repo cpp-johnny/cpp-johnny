@@ -45,16 +45,12 @@
 <a href="https://www.r-project.org/" rel="nofollow"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white%22%20style=%22max-width:%20100%"></a>
 
 
-<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-NvChad-57A143?style=flat-square&logo=neovim&logoColor=white
-" style="max-width: 100%;"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-NvChad-57A143?style=flat-square&logo=neovim&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://gist.github.com/cpp-johnny/3746db068cf7920b5e6d77e9b3bbf90f" rel="nofollow"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://codepen.io/" rel="nofollow"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://dev.to" rel="nofollow"><img src="https://img.shields.io/badge/-Dev-0A0A0A?style=flat-square&logo=Dev.to&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.datacamp.com/" rel="nofollow"><img src="https://img.shields.io/badge/-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.gimp.org/" rel="nofollow"><img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://openai.com/" rel="nofollow"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.bilibili.com/" rel="nofollow"><img src="https://img.shields.io/badge/-B%E7%AB%99-00A1D6?style=flat-square&logo=bilibili&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://vercel.com/dashboard" rel="nofollow"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="max-width: 100%;"></a>
 
 
