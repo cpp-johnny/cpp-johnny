@@ -10,11 +10,10 @@
 
 > a really bored person 
 
-
-- 👋 Hi, I’m boi
-- 👀 I’m kinda bored so im doing CS for fun
-- 🌱 I am currently trying out Svelte & Alpine
-- 🎯 2023 Goals: learn a new langauge (maybe [ThreeJS](https://threejs.org/)/[Svelte](https://learn.svelte.dev/tutorial/welcome-to-svelte)) 
+- 👋 Hi, you can call me John
+- 👀 Currently using EndeavourOS
+- 🌱 I am currently trying out Svelte & Bun
+- 🎯 2024 Goals: finish my TensorFlow model on image recognition 
 
 
 
