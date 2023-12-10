@@ -5,7 +5,7 @@
 
 
 
-## About Me :O
+## About Me 🤖
 
 
 > a really bored person 
@@ -19,7 +19,7 @@
 
 
 
-## Platform & Tools
+## Platform & Tools 🧰
 
 
 <!--- href is for redirect link, then img src="whatever" is stolen from --->
