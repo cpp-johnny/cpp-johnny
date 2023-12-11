@@ -13,7 +13,7 @@
 - 👋 Hi, you can call me John
 - 👀 Currently using EndeavourOS
 - 🌱 I am currently trying out Svelte & Bun
-- 🎯 2024 Goals: finish my TensorFlow model on image recognition 
+- 🎯 2024 Goals: learn Astro and finish up on AI
 
 
 
