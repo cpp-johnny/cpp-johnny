@@ -26,8 +26,8 @@
 <!--- copy paste, change the names accordingly, and no. A81D33 is colour --->
 <!--- template: <a href="" rel="nofollow"><img src="" style="max-width: 100%;"></a> --->
 <!--- use simpleicons.org for the colour of the shit --->
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://github.com/cpp-johnny/EndeavourOS-setup" rel="nofollow"><img src="https://img.shields.io/badge/-endeavourOS-purple?style=flat-square&logo=endeavouros&logoColor=white" style="max-width: 100%;"></a> 
-<a href=" rel="nofollow"><img src="https://img.shields.io/badge/-Arch-blue?style=flat-square&logo=arch&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://github.com/cpp-johnny/ubuntu-setup" rel="nofollow"><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" style="max-width: 100%;"></a> 
 <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" style="max-width: 100%;"></a>
 <a href="" rel="nofollow"><img src="https://img.shields.io/badge/-win11-0078D4?style=flat-square&logo=windows11&logoColor=white" style="max-width: 100%;"></a> 
