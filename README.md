@@ -8,12 +8,9 @@
 ## About Me 🤖
 
 
-> a really bored person 
+> a really bored person
 
-- 👋 Hi, you can call me boi
-- 👀 Currently using EndeavourOS
-- 🌱 I am currently trying out Svelte & Bun
-- 🎯 2024 Goals: learn Astro and finish up on AI
+👋 Hello I'm Johnson! I am a High School student who is interested in coding and finance! Do check out my projects on GitHib! 🙂
 
 
 
