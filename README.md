@@ -10,7 +10,7 @@
 
 > a really bored person
 
-👋 Hello I'm Johnson! I am a High School student who is interested in coding and finance! Do check out my projects on GitHib! 🙂
+👋 Hello I'm Johnson! I am a High School student who is interested in coding and finance! Do check out my projects on GitHub! 🙂
 
 
 
