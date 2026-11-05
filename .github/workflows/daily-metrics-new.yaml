@@ -4,7 +4,7 @@ on:
   # schedule: [{cron: "0 0 * * *"}]
   
   # Schedule hourly updates instead (more accurate)
-  schedule: [{cron: "0 * * * *"}]
+  # schedule: [{cron: "0 * * * *"}]
 
 
   # (optional) Run workflow manually
